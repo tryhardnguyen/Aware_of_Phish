@@ -8,6 +8,7 @@ User provide a file path to the email file, program ingest the email file. User 
 <li> Print out the Email Information (Return-Path, From, Body, DKIM, and SPF)
 <li> Get the URL (If it exist in the email)
 <li> Get the SHA-256 Hash of the attachment
+<li> Download the attachment of the email to the drive.
 <li> Open OSINT Website automatically (VirusTotal, CiscoTalos, AbuseIPDB, mxtoolbox)
 
 ## Menu Picture:
