@@ -11,6 +11,6 @@ User provide a file path to the email file, program ingest the email file. User 
 <li> Open OSINT Website automatically (VirusTotal, CiscoTalos, AbuseIPDB, mxtoolbox)
 
 ## Menu Picture:
-<img src="https://github.com/tryhardnguyen/Aware_of_Phish/blob/main/image/MENU_1.png" alt="Menu_one" width="auto" height="auto">
-<img src="https://github.com/tryhardnguyen/Aware_of_Phish/blob/main/image/MENU_2.png" alt="Menu_one" width="auto" height="auto">
-<img src="https://github.com/tryhardnguyen/Aware_of_Phish/blob/main/image/MENU_3.png" alt="Menu_one" width="auto" height="auto">
+<img src="https://github.com/tryhardnguyen/Aware_of_Phish/blob/main/image/MENU_1.png" alt="Menu_one" width="auto" height="auto" align="left">
+<img src="https://github.com/tryhardnguyen/Aware_of_Phish/blob/main/image/MENU_2.png" alt="Menu_two" width="auto" height="auto" align="center">
+<img src="https://github.com/tryhardnguyen/Aware_of_Phish/blob/main/image/MENU_3.png" alt="Menu_three" width="auto" height="auto" align="left">
